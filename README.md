@@ -21,3 +21,7 @@ It contains figures used in the supplementary to show related work. These images
 ### theory_supplementary
 
 It contains extended analysis on the related work, RAYS constructions, modified RAYS, and the user study.
+
+### datasets
+
+It contains various RAYS visualisations of different datasets along with their analysis.
