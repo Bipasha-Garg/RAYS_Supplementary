@@ -25,3 +25,5 @@ It contains extended analysis on the related work, RAYS constructions, modified 
 ### datasets
 
 It contains various RAYS visualisations of different datasets along with their analysis.
+
+Note: Due to the size of the original Document, this PDF is the compressed version of the original PDF. To look at the original high-resolution images, refer to /datasets
